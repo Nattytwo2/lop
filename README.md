@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory.
+project 0x00. Shell, basics
